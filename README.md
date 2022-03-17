@@ -1,4 +1,4 @@
-# Ini adalah repository Diaz Jubairy mengenai rangkuman materi dan tugas dari Digital SKola Batch 11
+# Ini adalah repository Diaz Jubairy mengenai rangkuman materi dan tugas dari Digital Skola Batch 11
 
 ## Learning Progress Report
 Learning Progress Report (LPR) adalah rangkuman dari 2-3 pertemuan setiap minggu
